@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, especially discord.py or Pycord**
 
-- 📫 How to reach me: [**Discord account**](discord.com/users/767342472400994355)
+- 📫 How to reach me: [Discord account](discord.com/users/767342472400994355)
 
 - ⚡ Fun fact **I'm a virgin 🤣**
 
