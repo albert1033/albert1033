@@ -9,13 +9,12 @@
 
 - 🌱 I’m currently learning **HTML & CSS**
 
-- 📝 I regularly write articles on [https://www.w3schools.com](https://www.w3schools.com)
+- 📝 I regularly read articles on [https://www.w3schools.com](https://www.w3schools.com)
 
 - 💬 Ask me about **Python, especially discord.py or Pycord**
 
 - 📫 How to reach me: [Discord account](discord.com/users/767342472400994355)
 
-- ⚡ Fun fact **I'm a virgin 🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
